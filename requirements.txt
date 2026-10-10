@@ -1,0 +1,4 @@
+# Dependencies for CycleNest (Console + Modern Desktop GUI)
+rich>=13.0.0
+customtkinter>=5.2.0
+matplotlib>=3.7.0

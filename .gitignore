@@ -1,0 +1,25 @@
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Local databases & exports (privacy protection)
+*.db
+*.sqlite
+*.sqlite3
+cyclenest_export.csv
+cyclenest_export.json
+*.csv
+*.json
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Editor & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
